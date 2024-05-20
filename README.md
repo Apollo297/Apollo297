@@ -7,7 +7,7 @@
 *Passionate about backend development and always eager to learn new technologies.</br> I love building applications that solve real-world problems for users and make their everyday lives easier.*
 
 ### 🚀 My Interests
-- Back-End Development;
+- Backend development;
 - Creating RESTful APIs;
 - Building user-centric applications to solve real-world problems
 
