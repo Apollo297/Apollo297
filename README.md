@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Aleksey 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python-developer from Russia 🇷🇺 </h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python-developer+from+Russia+🇷🇺)](https://git.io/typing-svg)</h3>
+<!--<h3 align="center">Python-developer from Russia 🇷🇺 </h3>-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python-developer+fro+Russia)](https://git.io/typing-svg)
 
 
 <!--
