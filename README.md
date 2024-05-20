@@ -4,21 +4,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python-developer+from+Russia.)](https://git.io/typing-svg)
 
 
-*Passionate about backend development and always eager to learn new technologies. I love building applications that solve real-world problems for users and make their everyday lives easier.*
+*Passionate about backend development and always eager to learn new technologies.</br> I love building applications that solve real-world problems for users and make their everyday lives easier.*
 
 ### 🚀 My Interests
-- *Back-End Development;*
-- *Creating RESTful APIs;*
-- *Building user-centric applications to solve real-world problems*
+- Back-End Development;
+- Creating RESTful APIs;
+- Building user-centric applications to solve real-world problems
 
 ### 🎯 Code Challenges
-*I love solving challenges on*
+I love solving challenges on
 <a href="https://www.codewars.com" target="_blank">
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge">
 </a>
 
-🔭 *Currently, I'm working on a financial assistant project that aims to help people track their savings or expenses, as well as monitor the progress of their financial goals.*
+🔭 Currently, I'm working on a financial assistant project that aims to help people track their savings or expenses, as well as monitor the progress of their financial goals.
 <hr>
+
 ### 🛠️ My Technology Stack
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
