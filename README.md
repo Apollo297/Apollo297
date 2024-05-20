@@ -12,7 +12,10 @@ Passionate about backend development and always eager to learn new technologies.
 - Building user-centric applications to solve real-world problems
 
 ### 🎯 Code Challenges
-I love solving challenges on ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+I love solving challenges on
+<a href="https://www.codewars.com" target="_blank">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge">
+</a>
 
 ### 🛠️ My Technology Stack
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
